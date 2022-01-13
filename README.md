@@ -9,7 +9,7 @@ Mid-Atlantic Collegiate Cyber Defense Challenge Regional Finalist (Spring 2020),
 Graduated Magna Cum Laude with a degree in Cyber Forensics & Security, 
 Network+ & Security+ Certified
 
-Gaming Achievements, 
+Gaming Achievements: 
 League of Legends Season 6 Challenger (Rank 165), 
 Rainbow 6 Siege Diamond Rank (all Seasons Year 1&2), 
 Overwatch Master (DPS or at the time, Attack), 
