@@ -10,7 +10,7 @@ Graduated Magna Cum Laude with a degree in Cyber Forensics & Security,
 Network+ & Security+ Certified
 
 Gaming Achievements: 
-League of Legends Season 6 Challenger (Rank 165), 
+League of Legends Season 6 Challenger ADC (Rank 165), 
 Rainbow 6 Siege Diamond Rank (all Seasons Year 1&2), 
 Overwatch Master (DPS or at the time, Attack), 
 MGSV:PP FOB Top 10,000 World
