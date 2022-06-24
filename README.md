@@ -8,12 +8,7 @@ IRL CompSci Achievements:
 - Mid-Atlantic Collegiate Cyber Defense Challenge Regional Finalist (Spring 2020)
 - Network+ & Security+ Certified
 
-Gaming Achievements
-- League of Legends Season 6 Challenger ADC (Rank 165)
-- Rainbow 6 Siege Diamond Rank (all Seasons Year 1&2)
-- Overwatch Master (DPS or at the time, Attack)
-- MGSV:PP FOB Top 10,000 World
-
+my hobbies include exercise, gaming, and reading. 
 i promise i'm not too much of a loser!
 
 <!---
