@@ -1,7 +1,7 @@
 hello i'm dog. i work at a cool company where i get to do cool work.
-my main experience is in BASH and PowerShell scripting, as I do a lot of that at my job. i'm a big fan of linux as well (i use mint on my laptop, a dell xps15)
-i graduated college in winter 2020 and got a great job about 6 months after, so i am still getting my sealegs in the workforce.
-the focus of this github will be guides on selfhosting. now that i don't make minimum wage i am able to set up my own hardware instead of someone else's
+i'm a big network infrastructure and linux fan (i run mint on my old XPS, and a homeserver with ubuntu)
+This is just gonna be little stuff and walkthroughs for stuff i think is cool or helpful.
+I'm trying to get into automation so i will have simple scripts i write as well. 
 
 IRL CompSci Achievements: 
 - Top 5% of National Cyber League competitors (241/6000+ Fall 2020) 
