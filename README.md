@@ -7,7 +7,7 @@ IRL CompSci Achievements:
 - Top 5% of National Cyber League competitors (241/6000+ Fall 2020) 
 - National Cyber League Champion Spring 2020
 - Mid-Atlantic Collegiate Cyber Defense Challenge Regional Finalist (Spring 2020)
-- Network+ & Security+ Certified
+- Network+, Security+, & Linux+ Certified
 
 my hobbies include weightlifting, gaming, history (both world and computing/the internet), and reading. 
 i promise i'm not too much of a loser!
