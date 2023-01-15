@@ -1,7 +1,7 @@
 hello i'm dog. i work at a cool company where i get to do cool work.
-i'm a big network infrastructure and linux fan (i run mint on my old XPS, and a homeserver with ubuntu)
-This is just gonna be little stuff and walkthroughs for stuff i think is cool or helpful.
-I'm trying to get into automation so i will have simple scripts i write as well. 
+I'm a huge fan of networking, linux, and homeserver. Currently I host all my services with Ubuntu on a refurbished Optiplex 7040  with a few modifications to the hardware.
+This is just gonna be little stuff and walkthroughs for stuff i think is cool or might be helpful.
+My goal is to be a DevOps Engineer so I am working towards certs and projects that will help me accomplish that goal.
 
 IRL CompSci Achievements: 
 - Top 5% of National Cyber League competitors (241/6000+ Fall 2020) 
@@ -10,7 +10,7 @@ IRL CompSci Achievements:
 - Network+, Security+, & Linux+ Certified
 
 my hobbies include weightlifting, gaming, history (both world and computing/the internet), and reading. 
-i promise i'm not too much of a loser!
+thanks for checking out my profile! I hope you find something that is useful, or that gives you an idea.
 
 <!---
 barkwoofdog/barkwoofdog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
