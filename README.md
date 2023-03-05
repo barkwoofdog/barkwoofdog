@@ -1,5 +1,5 @@
-hello i'm dog. i work at a cool company where i get to do cool work.
-I'm a huge fan of networking, linux, and homeserver. Currently I host all my services with Ubuntu on a refurbished Optiplex 7040  with a few modifications to the hardware.
+hello i'm dog.  
+I'm a huge fan of networking, linux, and homeserver. Currently I host all my services on a PC I built from old parts that runs Ubuntu, and most services ran in Docker containers.
 This is just gonna be little stuff and walkthroughs for stuff i think is cool or might be helpful.
 My goal is to be a DevOps Engineer so I am working towards certs and projects that will help me accomplish that goal.
 
